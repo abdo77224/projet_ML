@@ -97,3 +97,6 @@ figures/*
 
 # DS_Store
 .DS_Store
+
+#data/
+*.csv
